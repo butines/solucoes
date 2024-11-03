@@ -1,4 +1,4 @@
-# Dicionário de faturamento por estado
+
 faturamento_estados = {
     'SP': 67836.43,
     'RJ': 36678.66,
